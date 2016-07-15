@@ -170,7 +170,7 @@ def m(m):
 اعضای ربات
 /banlist
 لیست بن
-/clean basnlist
+/clean banlist
 حذف لیست  بن
                 """)
     except:
